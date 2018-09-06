@@ -9,3 +9,6 @@ class Cat
     @my_cat
   end
 end
+
+Maru = Cat.new
+Maru
