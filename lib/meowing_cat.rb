@@ -8,7 +8,11 @@ class Cat
   def name
     @my_cat
   end
+
+  def meow
+    puts "meow"
+  end
 end
 
 Maru = Cat.new
-Maru
+Maru.meow
