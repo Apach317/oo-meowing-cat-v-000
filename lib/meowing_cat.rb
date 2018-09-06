@@ -1,7 +1,7 @@
 ## code your solution here.
 
 class Cat
-  def name=(new_cat = Maru)
+  def name=(new_cat)
     @my_cat = new_cat
   end
 
